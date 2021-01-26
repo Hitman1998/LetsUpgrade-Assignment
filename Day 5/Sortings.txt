@@ -1,0 +1,9 @@
+5 Sorting Algorithms:
+
+   Algorithm        Best        Average        Worst
+  
+1.)Bubble Sort:      n            n^2           n^2
+2.)Insertion Sort:   n            n^2           n^2
+3.)Selection Sort    n^2          n^2           n^2
+4.)Quick Sort        nlogn        nlogn         n^2
+5.)Merge Sort        nlogn        nlogn         nlogn
